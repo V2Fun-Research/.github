@@ -1,6 +1,6 @@
 <div align="center">
 
-# V2Fun Research
+# Welcome to V2Fun Research Labs:wave:
 
 ### Create in 3D. Build in the open.
 
