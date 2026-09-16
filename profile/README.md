@@ -25,7 +25,7 @@ Welcome to our open-source home. Explore tools for creators and developers, foll
 | 🛠 Build with tools | 📚 Explore research | 🧩 Create with AI skills |
 | :--- | :--- | :--- |
 | Utilities, integrations & creative workflows | Papers, code & research resources | Reusable skills for AI-assisted 3D creation |
-| [工具专区 ↓](#tools) | [开源学术论文专区 ↓](#research) | [AI 3D Skills 专区 ↓](#skills) |
+| [Tools ↓](#tools) | [Research ↓](#research) | [AI 3D Skills ↓](#skills) |
 
 <a id="tools"></a>
 
