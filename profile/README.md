@@ -36,8 +36,6 @@ Practical tools and integrations for 3D creators and developers.
 面向 3D 创作与开发的实用工具、插件及集成。
 
 > **Coming soon · 即将发布**  
-> Public tool releases will be listed here with repository links, documentation, and examples.  
-> 工具公开发布后，将在这里提供仓库、使用文档与示例入口。
 
 <!-- Add verified public projects here:
 | Project | What it does | Resources |
@@ -54,8 +52,6 @@ Research papers and their open-source implementations, together in one place.
 集中展示学术论文及对应的开源实现，方便阅读、复现与探索。
 
 > **Coming soon · 即将发布**  
-> Research releases will link to the paper and available code, models, and project pages.  
-> 研究成果发布后，将在这里汇总论文与已公开的代码、模型和项目主页。
 
 <!-- Add verified research releases here. Include only resources that are publicly available.
 | Paper / Project | Venue / Year | Resources |
@@ -72,8 +68,6 @@ Reusable AI agent skills for 3D creation workflows.
 把 3D 创作流程沉淀成可复用的 AI 技能，让创作步骤更容易理解、执行与组合。
 
 > **Coming soon · 即将发布**  
-> Public skills will be listed here with their capabilities, setup instructions, and examples.  
-> Skills 公开发布后，将在这里提供能力说明、安装配置与使用示例。
 
 <!-- Add verified public skills here. Keep runtime requirements and API costs in each skill's documentation.
 | Skill | Workflow | Get started |
