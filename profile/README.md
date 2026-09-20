@@ -71,6 +71,7 @@ Reusable AI agent skills for 3D creation workflows.
 | :--- | :--- | :--- |
 | [**V2Fun AI 3D**](https://github.com/V2Fun-Research/v2fun-ai-3d) | AI 3D modeling combining AI-generated meshes with procedural Three.js modeling, part assembly, and GLB/source delivery.<br>结合 AI 生成与 Three.js 程序化建模，支持部件装配及 GLB／源码交付。 | [Quick start](https://github.com/V2Fun-Research/v2fun-ai-3d#quick-start) · [中文说明](https://github.com/V2Fun-Research/v2fun-ai-3d/blob/main/README.zh-CN.md#quick-start) · [Astra 3D Demo](https://v2fun.ai/solution/gpt-6-astra/) |
 | [**V2Fun Animation**](https://github.com/V2Fun-Research/v2fun-animation) | Video-to-character animation with retargeting, custom cameras and local exports.<br>视频驱动角色动画，支持重定向、自定义运镜与本地导出。 | **Private · 私有仓库** — authorized access required / 需授权访问 |
+| [**V2Fun Dance Game**](https://github.com/V2Fun-Research/v2fun-dance-game) | Browser dance rhythm games from video capture or animated characters, with bilingual controls and offline examples.<br>通过视频动捕或角色自带动画制作网页舞蹈节奏游戏，支持中英切换和离线示例。 | **Private · 私有仓库** — authorized access required / 需授权访问 |
 | [**V2Fun Skill Publish**](https://github.com/V2Fun-Research/v2fun-skill-publish) | Package and publish V2Fun skills with a flat runtime layout and bilingual documentation.<br>按统一扁平结构整理和发布 V2Fun 技能，包含双语文档。 | **Private · 私有仓库** — authorized access required / 需授权访问 |
 
 ---
