@@ -63,15 +63,16 @@ Research papers and their open-source implementations, together in one place.
 
 ## 🧩 AI 3D Skills · 智能创作技能专区
 
-Reusable AI agent skills for 3D creation workflows.
+Reusable AI agent skills for 3D creation workflows, with shared CN/global API routing.
 
-把 3D 创作流程沉淀成可复用的 AI 技能，让创作步骤更容易理解、执行与组合。
+把 3D 创作流程沉淀成可复用的 AI 技能，统一支持国内服／海外服 API 识别与任务绑定。
 
 | Skill | Workflow · 工作流 | Get started · 开始使用 |
 | :--- | :--- | :--- |
 | [**V2Fun AI 3D**](https://github.com/V2Fun-Research/v2fun-ai-3d) | AI 3D modeling combining AI-generated meshes with procedural Three.js modeling, part assembly, and GLB/source delivery.<br>结合 AI 生成与 Three.js 程序化建模，支持部件装配及 GLB／源码交付。 | [Quick start](https://github.com/V2Fun-Research/v2fun-ai-3d#quick-start) · [中文说明](https://github.com/V2Fun-Research/v2fun-ai-3d/blob/main/README.zh-CN.md#quick-start) · [Astra 3D Demo](https://v2fun.ai/solution/gpt-6-astra/) |
 | [**V2Fun Animation**](https://github.com/V2Fun-Research/v2fun-animation) | Video-to-character animation with retargeting, custom cameras and local exports.<br>视频驱动角色动画，支持重定向、自定义运镜与本地导出。 | **Private · 私有仓库** — authorized access required / 需授权访问 |
 | [**V2Fun Dance Game**](https://github.com/V2Fun-Research/v2fun-dance-game) | Browser dance rhythm games from video capture or animated characters, with bilingual controls and offline examples.<br>通过视频动捕或角色自带动画制作网页舞蹈节奏游戏，支持中英切换和离线示例。 | **Private · 私有仓库** — authorized access required / 需授权访问 |
+| [**V2Fun Setup**](https://github.com/V2Fun-Research/v2fun-setup) | Shared authentication, CN/global server routing, balance and task recovery.<br>公共认证、国内／海外服务器识别、余额查询与任务恢复。 | **Private · 私有仓库** — authorized access required / 需授权访问 |
 
 ---
 
