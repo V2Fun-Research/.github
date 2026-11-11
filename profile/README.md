@@ -76,6 +76,9 @@ Reusable AI agent skills for 3D creation workflows, with shared CN/global API ro
 | [**V2Fun Dance Game**](https://github.com/V2Fun-Research/v2fun-dance-game) | Browser dance rhythm games from video capture or animated characters, with bilingual controls and offline examples.<br>通过视频动捕或角色自带动画制作网页舞蹈节奏游戏，支持中英切换和离线示例。 | [Demo](https://v2fun.ai/developers/skills/v2fun-dance-game) |
 | [**V2Fun Split to Print**](https://github.com/V2Fun-Research/v2fun-split-to-print) | Color separation, supported assembly parts and offline interactive demos for existing 3D models.<br>已有模型的分色、打印分件与装配连接，支持离线交互演示。 | [Demo](https://v2fun.ai/developers/skills/v2fun-split-to-print) |
 
+| [**V2Fun Blender Scene**](https://github.com/V2Fun-Research/v2fun-blender-scene) | Reference-driven Blender scene reconstruction with camera/light matching and optional AI assets.<br>参考图驱动的 Blender 场景重建、相机光照匹配及可选 AI 资产。 | Private / 私有，需访问授权 · [Instructions](https://github.com/V2Fun-Research/v2fun-blender-scene#quick-start) |
+| [**V2Fun Skill Publish**](https://github.com/V2Fun-Research/v2fun-skill-publish) | Skill packaging, bilingual documentation, GitHub publication and acceptance handoff.<br>技能整理、双语文档、GitHub 发布与验收交接。 | Private / 私有，需访问授权 · [Instructions](https://github.com/V2Fun-Research/v2fun-skill-publish#quick-start) |
+
 ---
 
 ## 🤝 Connect & Contribute · 交流与共建
